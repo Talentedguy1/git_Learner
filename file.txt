@@ -2,4 +2,8 @@ I have learnt it
 "New changes made" 
 "I'm still working on it"
 "This is for the branch"
+<<<<<<< HEAD
 "changes on the branch"
+=======
+"Still working on branch"
+>>>>>>> master
